@@ -20,11 +20,7 @@ O projeto fornece as funcionalidades básicas de uma calculadora padrão, inclui
 
 ## Como usar
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/calculadora-flutter.git`
-2. Navegue até o diretório do projeto: `cd calculadora-flutter`
-3. Instale as dependências
-: `flutter pub get`
-4. Execute o aplicativo: `flutter run`
+https://lucasrocha-cmd.github.io/My-Calculator-App/
 
 ## Tecnologias utilizadas
 

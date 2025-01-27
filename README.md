@@ -28,9 +28,6 @@ https://lucasrocha-cmd.github.io/My-Calculator-App/
 - Dart
 - math_expressions (pacote para avaliação de expressões matemáticas)
 
-## Demonstração
-
-![Demonstração da calculadora](demonstracao.gif)
 
 ## Contribuição
 
